@@ -1,0 +1,17 @@
+body{
+    color: grey;
+}
+a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus{
+    background-color: #7fc8ba;
+    border-color: #7fc8ba;
+}
+.highlight{
+    background-color: rgb(237, 242, 176);
+    border-radius:  5px;
+}
+div.alert.alert-info.fade.in{
+    background-color:#d9edf787;
+}
+.wizard .wizard-inner .actions{
+    position: static;
+}

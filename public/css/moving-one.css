@@ -1,0 +1,78 @@
+.moving-header {
+    border: dashed 1px #b0bec5;
+}
+.moving-header h4>span {
+     display:inline-block;
+     width:30%;
+     font-weight: bold;
+     border-bottom: none;
+ }
+.conversation-wrapper {
+    padding-top:0;
+    padding-left:0;
+    padding-right:0;
+}
+.conversation-wrapper .conversation-user img {
+    width:50px;
+    height:50px;
+}
+.conversation-wrapper .conversation-item.item-right .conversation-body {
+    margin-left: 0;
+    margin-right: 60px;
+}
+.conversation-wrapper .conversation-body {
+    background: #f5f5f5;
+}
+.conversation-wrapper .conversation-body::before {
+    border-color: transparent #f5f5f5 transparent transparent;
+    border-style: solid;
+    border-width: 6px;
+    content: "";
+    cursor: pointer;
+    left: -12px;
+    position: absolute;
+    top: 25px;
+}
+
+.conversation-new-message {
+    padding-bottom: 20px;
+    padding-top:0!important;
+}
+.conversation-new-message .form-group {
+    margin-bottom: 5px;
+}
+.conversation-inner {
+    margin-right: 0!important;
+}
+#received_date {
+    font-style: normal;
+}
+.move-date {
+    display:inline-block;
+    height:34px;
+    overflow-y:hidden;
+}
+
+#for_products .for_title2 {
+    width:450px;
+}
+@media (max-width: 1300px) {
+    #for_products .for_title2 {
+        width:350px;
+    }
+}
+@media (max-width: 1200px) {
+    #for_products .for_title2 {
+        width:250px;
+    }
+}
+@media (max-width: 1100px) {
+    #for_products .for_title2 {
+        width:150px;
+    }
+}
+@media (max-width: 1000px) {
+    #for_products .for_title2 {
+        width:50px;
+    }
+}

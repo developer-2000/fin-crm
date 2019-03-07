@@ -1,0 +1,52 @@
+.custom_filter_block .pull-left .search-icon {
+    z-index: 10;
+}
+
+.custom_filter_block {
+    max-width: 30%;
+}
+
+.time_modified {
+    color: #19bc9d;
+    border-color: #19bc9d;
+}
+
+.input-data {
+    background-color: #fff6db;
+}
+
+.input-data .value, .offer_products .value {
+    font-size: 12px;
+    font-weight: 600;
+    color: #929292;
+}
+
+.value span {
+    color: #000000;
+}
+
+.offer_products {
+    background-color: #e7f9fb;
+}
+
+.product {
+    color: #000000;
+    margin-left: 15px;
+    margin-top: 5px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.product .label{
+    color: #ffffff;
+}
+
+.error_messages {
+    position: absolute;
+}
+
+@media (max-width: 440px) {
+    .custom_filter_block {
+        max-width: 100%;
+    }
+}

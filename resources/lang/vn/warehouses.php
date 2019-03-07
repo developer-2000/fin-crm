@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'cant-work-with-storage' => 'Bạn không thể làm việc với kho này',
+  'storage-cant-negative' => 'Kho không thể là số âm',
+  'moving-closed-earlier' => 'Sự di chuyển này đã được đóng trước đó',
+  'arrival-noted' => 'Điểm đến được đánh dấu',
+  'movings-found' => 'Tìm thấy sự di chuyển',
+  'moving-create' => 'Tạo sự di chuyển',
+  'should-arrive' => 'Nên đến',
+  'arrived-confirmed-earlier' => 'Đã xác nhận tới nơi',
+  'arrived' => 'Đã đến',
+  'shortage-earlier' => 'Trước đó bị thiếu',
+  'shortfall' => 'Sự thiếu hụt',
+  'title' => 'Kho',
+  'storage-by-product' => 'Kho theo sản phẩm',
+  'hold' => 'Giữ',
+  'date-time-change' => 'Thời gian thay đổi',
+  'last-changer' => 'Thay đổi cuối cùng',
+  'no-results' => 'Không có kết quả',
+  'amount-before' => 'Số lượng trước',
+  'amount-after' => 'Số lượng sau',
+  'hold-before' => 'Trước khi giữ',
+  'hold-after' => 'Sau khi giữ',
+  'transaction-create' => 'Tạo giao dịch',
+  'found' => 'Tìm thấy',
+);

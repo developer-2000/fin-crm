@@ -1,0 +1,44 @@
+.table_products .checkbox-nice {
+    padding-left: 0px;
+}
+.proc_statuses {
+    display: inline-block;
+}
+.proc_statuses li{
+    list-style-type: none;
+}
+#tabs_menu .nav-tabs {
+    background: transparent;
+}
+#tabs_menu .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    background-color: #f9f9f9;
+}
+#tabs_menu {
+    margin-bottom: -17px;
+    margin-top: -8px;
+    padding-top: 15px;
+}
+#tabs_menu > .nav-tabs > li:first-of-type > a{
+    margin-left: 5px;
+}
+#content-header {
+    padding-top: 9px;
+}
+
+@media (max-width: 767px) {
+    #content-header {
+        padding: 15px 0 15px 0;
+    }
+}
+
+@media (max-width: 500px) {
+    #tabs_menu {
+        width: 100%;
+    }
+    #tabs_menu a {
+        margin-right: 0;
+    }
+    #tabs_menu > .nav-tabs > li:first-of-type > a{
+        margin-left: 0;
+    }
+}

@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'cant-work-with-storage' => 'You cannot work with this warehouse',
+  'storage-cant-negative' => 'Storage can not be negative',
+  'moving-closed-earlier' => 'This moving was closed earlier',
+  'arrival-noted' => 'Arrival marked',
+  'movings-found' => 'Movings found',
+  'moving-create' => 'Create moving',
+  'should-arrive' => 'Should arrive',
+  'arrived-confirmed-earlier' => 'Arrival confirmed earlier',
+  'arrived' => 'Has arrived',
+  'shortage-earlier' => 'Shortage earlier',
+  'shortfall' => 'Shortfall',
+  'title' => 'Srorages',
+  'storage-by-product' => 'Storage by product',
+  'hold' => 'Hold',
+  'date-time-change' => 'Date of time change',
+  'last-changer' => 'Last changer',
+  'no-results' => 'No results',
+  'amount-before' => 'Amount before',
+  'amount-after' => 'Amount after',
+  'hold-before' => 'Before hold',
+  'hold-after' => 'After hold',
+  'transaction-create' => 'Create transaction',
+  'found' => 'founded',
+);

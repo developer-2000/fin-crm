@@ -1,0 +1,10 @@
+.block_price {
+    font-size: 12px;
+}
+
+.del_price {
+    cursor: pointer;
+    color: #f4786e;
+    font-size: 17px;
+    padding-left: 10px;
+}

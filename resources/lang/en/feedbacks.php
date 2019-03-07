@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'go-to-recall' => 'Go to recall',
+  'initiator-message' => 'Initiator message',
+  'comment-not-added' => 'Comment not added',
+  'recalls-tickets' => 'Recalls tickets',
+  'page-recall-ticket' => 'Page recall/ticket',
+  'recall-order' => 'Feedback on order',
+  'call-recording' => 'Record call',
+  'additional-actions' => 'Additional actions',
+  'enter-message' => 'Enter message',
+  'closed' => 'Feedback closed',
+  'success-calls' => 'Success calls',
+  'awaiting-response' => 'Awaiting response',
+  'awaiting-your-response' => 'Awaiting your reply',
+  'discussion-completed' => 'Discussion completed',
+  'operator-errors' => 'Operator errors',
+  'create-ticket' => 'Create ticket',
+  'theme-message' => 'Theme message',
+  'text-message' => 'Text message',
+  'theme-ticket' => 'Theme ticket',
+  'already-added' => 'Feedback already added',
+  'feedback-added' => 'Feedback added',
+);

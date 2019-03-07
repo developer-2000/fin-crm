@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" singleton="false" nameIsGenerated="true" server_name="crm.lara">
+    <method v="2" />
+  </configuration>
+</component>

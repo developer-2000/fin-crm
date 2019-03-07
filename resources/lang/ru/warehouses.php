@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'amount-after' => 'Сумма после',
+  'amount-before' => 'Сумма до',
+  'arrival-noted' => 'Прибытие отмечено',
+  'arrived' => 'Прибыл',
+  'arrived-confirmed-earlier' => 'Прибытие подтверждено ранее',
+  'cant-work-with-storage' => 'Вы не можете работать с этим складом',
+  'date-time-change' => 'Дата изменения времени',
+  'hold' => 'Холд',
+  'hold-after' => 'После холда',
+  'hold-before' => 'До холда',
+  'last-changer' => 'Последний сменщик',
+  'moving-closed-earlier' => 'Это перемещение было закрыто раньше',
+  'moving-create' => 'Создать перемещение',
+  'movings-found' => 'Найдены перемещения',
+  'no-results' => 'Нет результатов',
+  'shortage-earlier' => 'Недостаток ранее',
+  'shortfall' => 'Недостача',
+  'should-arrive' => 'Должен прибыть',
+  'storage-by-product' => 'Склад по товарам',
+  'storage-cant-negative' => 'Склад не может быть отрицательным',
+  'title' => 'Склады',
+  'transaction-create' => 'Создать транзакцию',
+  'found' => 'Найдено',
+);

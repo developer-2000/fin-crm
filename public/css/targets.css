@@ -1,0 +1,52 @@
+body {
+    color: #929292;
+}
+
+.form-horizontal label {
+    text-align: left!important;
+}
+
+.product_template {
+    padding: 0 15px;
+}
+
+.custom_template, .product_template {
+    display: none;
+}
+
+.custom_template.active, .product_template.active {
+    display: block;
+}
+
+.options .option {
+    margin-top:10px;
+}
+
+.custom_template .add_field, .product_template .add_field {
+    display: none;
+}
+
+.custom_template .custom_field:last-of-type .add_field, .product_template .product_field:last-of-type .add_field {
+    display: inline-block;
+}
+
+.options .row:last-of-type .option .add_option {
+    display: inline-block;
+}
+
+.option .add_option {
+    display: none;
+}
+
+div.help-block {
+    padding: 35px 8px 0;
+    margin-bottom: 0;
+}
+
+div.help-block>div{
+    padding-bottom: 8px;
+}
+
+div.help-block>div:last-of-type {
+    padding-bottom: 0;
+}

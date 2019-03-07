@@ -1,0 +1,71 @@
+.target_groups, .operators {
+    padding-left: 0;
+    padding-right: 15px;
+}
+
+li {
+    list-style-type: none;
+}
+
+#campaigns .dd-handle.name_campaign {
+    width: 0;
+    height: 0;
+    padding: 0;
+    border: 0;
+}
+
+.group_operator .content{
+    color: #ffffff;
+    padding: 7px 7px 7px 15px;
+    font-weight: 600;
+    margin-left:50px;
+}
+
+.group_operator .name_campaign_wrap {
+    position: relative;
+    border: 2px solid #e6e6e6;
+    margin-bottom: 3px;
+}
+
+.group_operator .count {
+    position: absolute;
+    width: 50px;
+    height: 100%;
+    font-weight: 600;
+    line-height: 34px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.groups, .operators, .group_operator {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.group {
+    border: 2px solid #e6e6e6;
+    color: #ffffff;
+    padding: 7px 7px 7px 15px;
+    font-weight: 600;
+    background-color: #2d3e50;
+    margin-bottom: 3px;
+}
+
+.operator {
+    background-color: #f9f9f9;
+    border: 2px solid #e1e1e1;
+    padding: 3px 7px 3px 15px;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
+
+.operator div {
+    display: inline-block;
+    max-width: 70%;
+}
+
+.operators_in_group {
+    margin-left: 52px;
+    padding-left:0;
+}
+

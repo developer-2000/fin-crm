@@ -1,0 +1,47 @@
+.col-md-6 header h3 {
+    border-bottom: 0;
+    margin-top: 5px;
+}
+
+.processing {
+    padding-right: 15px;
+}
+
+.processing header{
+    text-align: center;
+}
+
+.processing thead>tr>th {
+    background-color: #e6e6e6;
+    color: #353535;
+    border-bottom: 0;
+}
+
+.processing tbody>tr>td {
+    color: #929292;
+    font-size: 13px!important;
+}
+
+.processing .country img{
+    width: 20px;
+}
+
+.processing .pause_time {
+    color: #93a6ce;
+}
+
+.name_campaign {
+    background-color: #fff;
+}
+
+.user_id {
+    font-weight: 600;
+}
+
+.table {
+    color: #929292;
+}
+
+.table tbody>tr>td[colspan="5"] {
+    background-color: #fafafa;
+}

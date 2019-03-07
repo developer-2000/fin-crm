@@ -1,0 +1,22 @@
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    border-radius: 3px 3px 0 0;
+    background-clip: padding-box;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    font-weight: bold;
+}
+
+.nav-tabs>li{
+    width: 33%;
+    background: #e7ebee;
+    position: relative;
+}
+
+.nav-tabs>li:last-of-type {
+    width: 34%;
+}
+
+.tabs-wrapper .nav-tabs {
+    background: transparent;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "crmup",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Vviktoriia Liakhovetska <lyahovetskayab@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "datetimepicker": "https://github.com/xdan/datetimepicker.git#^2.5.20"
+  }
+}

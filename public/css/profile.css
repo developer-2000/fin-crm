@@ -1,0 +1,133 @@
+#user-profile .profile-img {
+    width: 90px;
+    margin-top: 30px;
+}
+
+.profile-label .label{
+    margin-right: 10px;
+}
+
+.profile-details i{
+    margin: 10px auto;
+    font-size: 2.4em;
+    display: block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    background-clip: padding-box;
+    color: #fff;
+}
+
+.profile-details p {
+    font-size: 16px;
+}
+
+P.balance {
+    font-size: 30px;
+    margin: 0;
+    font-weight: 600;
+    color: #7fc8ba;
+}
+
+.time {
+    font-size:12px;
+    color: #929292;
+}
+
+.date {
+    font-weight: 600;
+    color: #2bb5fd;
+    margin-top: -7px;
+}
+
+.salary {
+    color: #5ac9b9;
+    font-weight: 600;
+}
+
+.comment {
+    font-size: 11px;
+}
+
+.table thead>tr>th {
+    font-weight: 800;
+    font-size: 11px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#statistics form {
+    padding-left: 30px;
+}
+
+#statistics .crm_id {
+    color: #5ac9b9;
+    display: inline-block;
+    border-bottom: 1px dotted #5ac9b9;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#statistics .date {
+    display: inline-block;
+    border-bottom: 1px dotted #2bb5fd;
+}
+
+.type {
+    background-color: #1abc9c;
+    padding: 5px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.type.bonus {
+    background-color: #2ecc71;;
+    padding: 5px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.type.retention {
+    background-color: #ff9d4a;;
+    padding: 5px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 3px;
+}
+
+.type.danger {
+    background-color: #f4786e;
+}
+
+.type.residue {
+    background-color: #7FC8BA;
+}
+
+.type.debt {
+    background-color: #ffc107;
+}
+
+.type.custom {
+    background-color: #90a4ae;
+}
+
+.products {
+    margin-top: 5px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.small-graph-box .headline {
+    text-transform: none;
+}
+
+@media (max-width: 500px) {
+    .nav-tabs>li {
+        width: 100%;
+    }
+}

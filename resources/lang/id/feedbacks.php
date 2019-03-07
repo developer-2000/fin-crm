@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'call-recording' => 'Rekaman panggilan',
+  'page-recall-ticket' => 'Halaman ulasan tiket',
+  'additional-actions' => 'Tindakan tambahan',
+  'already-added' => 'Sudah ditambahkan',
+  'awaiting-response' => 'Menunggu jawaban',
+  'awaiting-your-response' => 'Menunggu jawaban Anda',
+  'closed' => 'Tutup',
+  'comment-not-added' => 'Komentar tidak ditambahkan',
+  'create-ticket' => 'Membuat tiket',
+  'discussion-completed' => 'Pembahasan selesai',
+  'enter-message' => 'Masukan pesan',
+  'feedback-added' => 'Ulasan ditambahkan',
+  'go-to-recall' => 'Pergi ke ulasan',
+  'initiator-message' => 'Inisiator pesan',
+  'operator-errors' => 'Kesalahan operator',
+  'recall-order' => 'Ulasan tentang pesanan',
+  'recalls-tickets' => 'Ulasan tiket',
+  'success-calls' => 'Panggilan berhasil',
+  'text-message' => 'pesan teks',
+  'theme-message' => 'Tema pesan',
+  'theme-ticket' => 'Tema tiket',
+);

@@ -1,0 +1,36 @@
+@media only screen and (min-width: 700px) {
+    .dd {
+        float: left;
+        width: 100%;
+    }
+}
+
+.editableform .form-group {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.dd-handle:hover {
+    cursor: pointer;
+}
+
+.dd-item .nested-links {
+    transition: .3s;
+}
+
+.dd-item .nested-links a {
+    border-bottom: 0;
+    margin: 0 2px;
+}
+
+.dd-item .delete_sub_categories:hover i {
+    color: #f4786e;
+}
+
+.dd-item .category_name i {
+    color: #2c3e50;
+}
+
+.dd-item .category_name:hover i {
+    color: #1ABC9C;
+}

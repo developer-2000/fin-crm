@@ -1,0 +1,27 @@
+.table tbody>tr>td:first-child {
+    font-weight: 600;
+}
+
+.table {
+    color: #929292;
+}
+
+.item_rows {
+    position: relative;
+    padding-top: 15px;
+}
+
+.item_rows .form-horizontal .control-label {
+    text-align: left;
+}
+
+.btns_filter {
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 20px;
+}
+
+.btns_filter .btn {
+    margin-right: 8px;
+    width: 144px;
+}

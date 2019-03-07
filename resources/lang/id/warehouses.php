@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'amount-after' => 'Hasil setelah',
+  'amount-before' => 'Hasil sebelum',
+  'arrival-noted' => 'Kedatangan ditandai',
+  'arrived' => 'Tiba',
+  'arrived-confirmed-earlier' => 'Kedatangan disetujui lebih awal',
+  'cant-work-with-storage' => 'Tidak dapat bekerja dengan penyimpanan',
+  'date-time-change' => 'Data perubahan waktu',
+  'hold' => 'Hold',
+  'hold-after' => 'Hold setelah',
+  'hold-before' => 'Hold sebelum',
+  'last-changer' => 'Pengubah terakhir',
+  'moving-closed-earlier' => 'Pergerakan ditutup lebih awal',
+  'moving-create' => 'Membuat pergerakan',
+  'movings-found' => 'Pergerakan ditemukan',
+  'no-results' => 'Tidak ada hasil',
+  'shortage-earlier' => 'Kekurang lebih awal',
+  'shortfall' => 'Kehabisan',
+  'should-arrive' => 'Harus tiba',
+  'storage-by-product' => 'Penyimpanan per produk',
+  'storage-cant-negative' => 'Penyimpanan tidak boleh negatif',
+  'title' => 'Judul',
+  'transaction-create' => 'Membuat transaksi',
+  'found' => 'Ditemukan',
+);

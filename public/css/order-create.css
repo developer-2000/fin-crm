@@ -1,0 +1,11 @@
+.control-label {
+    text-align: left !important;
+}
+
+#create_order select, #create_order input, #create_order textarea {
+    width: 100%;
+}
+
+.error-messages .alert:not(:last-of-type) {
+    margin-bottom: 0;
+}

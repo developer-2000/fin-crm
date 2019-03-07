@@ -1,0 +1,52 @@
+.col-sm-2 .form-group .select2-container .select2-choice .select2-arrow {
+    border-left: 0;
+    background-color: #fff!important;
+}
+.main-box .main-box-body.section_filter {
+    padding-bottom: 0;
+    border-bottom: 1px solid #e4dddd;
+}
+.main-box .main-box-body.section_filter label{
+    color: #929292;
+}
+
+.main-box .main-box-body.section_filter.grouping .btn-group label{
+    margin-bottom:20px;
+    color: #ffffff;
+    border-radius: 3px;
+    margin-left: 3px;
+}
+
+.date_type label {
+    display: block;
+}
+
+.date_type label {
+    border: 0;
+    background-color: #7FC8BA;
+    padding: 5px;
+    padding-top: 10%;
+    border-radius: 50% !important;
+    margin-right: 3px;
+    height: 34px;
+    width: 34px;
+}
+
+.main-box .main-box-body.section_filter .date_type label {
+    color: #ffffff;
+}
+
+.main-box .main-box-body.section_filter .pattern_date {
+    margin-bottom: 10px;
+    margin-right: 3px;
+    font-size: 12px;
+    padding: 5px;
+    color: #ffffff;
+    border-radius: 3px !important;
+}
+
+#order_table thead th {
+    padding-right: 20px;
+    vertical-align: middle;
+    text-transform: none;
+}
